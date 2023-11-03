@@ -10,7 +10,7 @@
    
      <router-view/>
         <div class="ftr">
-          <img v-bind:src="require('./assets/images/6.gif')" style="max-height:150px;float:left;position:fixed;bottom:0;left:0"/>
+          <img v-bind:src="require('./assets/images/6.gif')" style="max-height:75px;float:left;position:fixed;bottom:0;left:0"/>
           <span style="float:left; margin-left:150px">Created By Asitha Saranga Dissanayaka<br>
           <span style="font-size:12px">EDUONIX Vue Game Collection</span></span></div>
  
